@@ -1,7 +1,7 @@
 import React from "react";
 import { footerStyle } from "./style";
 import { Link } from "react-router-dom";
-import siteLogo from "../../assets/images/site-logo.svg";
+import siteLogo from "../../assets/images/Bookstore-logo.png";
 
 export const Footer = () => {
   const classes = footerStyle();
@@ -18,7 +18,7 @@ export const Footer = () => {
                 </Link>
               </div>
               <p className="copyright-text">
-                © 2015 Tatvasoft.com. All rights reserved.
+                © All rights reserved.
               </p>
             </div>
           </div>

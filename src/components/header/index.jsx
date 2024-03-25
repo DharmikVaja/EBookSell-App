@@ -4,7 +4,7 @@ import { headerStyle } from "./style";
 import List from "@material-ui/core/List";
 import AppBar from "@material-ui/core/AppBar";
 import ListItem from "@material-ui/core/ListItem";
-import siteLogo from "../../assets/images/site-logo.svg";
+import siteLogo from "../../assets/images/Bookstore-logo.png";
 import cartIcon from "../../assets/images/cart.png";
 import searchIcon from "../../assets/images/search.png";
 import { TextField, Button } from "@material-ui/core";
